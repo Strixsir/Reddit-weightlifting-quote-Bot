@@ -24,7 +24,7 @@ reddit = praw.Reddit(
     client_secret="SPIerU5EX7w4b3RolvSZWWHvpeWRuQ",
     user_agent="Console:Happybot:1.0",
     username="bot1339",
-    password="9an8ki7t",
+    password="your_reddit_password",
     ratelimit_seconds=600
 )
 
