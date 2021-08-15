@@ -20,8 +20,8 @@ with open("quotes.csv") as csv_file:
     rows = list(csv_reader)
 
 reddit = praw.Reddit(
-    client_id="k4UhQeTUiW4UWwpqC22wmA",
-    client_secret="SPIerU5EX7w4b3RolvSZWWHvpeWRuQ",
+    client_id="APP_ID",
+    client_secret="BOT_KEY",
     user_agent="Console:Happybot:1.0",
     username="bot1339",
     password="your_reddit_password",
